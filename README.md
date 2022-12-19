@@ -7,5 +7,7 @@ A barra é submetida em suas extremidades a temperaturas distintas de
 zero. Sejam os perfis de temperatura que a barra tem ao passar do tempo.
 Plotar alguns destes perfis utilizando o método de aproximação descrito abaixo.
 
+<img height="200em" alt="felipeft-gif" src="https://media0.giphy.com/media/5X7GDf7zc1Ebu/200w.gif"/>
+
 
 
