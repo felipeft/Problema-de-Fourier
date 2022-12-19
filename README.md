@@ -1,4 +1,4 @@
-# Trabalho-de-Equa-es-Diferenciais
+# Problema de Fourier (Trabalho de Equações Diferenciais)
 Algoritimo para a resolução e plotagem do gráfico de um problema de Fourier em c++
 
 Considere o problema de Fourier. Dada uma barra de metal de comprimento L e temperatura inicial de 0o = 0 em toda barra.
